@@ -3,6 +3,11 @@ date = 2020-12-28T23:00:00Z
 layout = "blocks"
 title = "anthesys"
 [[page_sections]]
+block = "header-1"
+logo = "/uploads/logo-anthesys-vertical.png"
+navigation = []
+template = "navigation-header"
+[[page_sections]]
 block = "two-column-1"
 template = "2-column-text"
 [page_sections.col_1]
