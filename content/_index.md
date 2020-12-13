@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link_url: "/"
     link_text: Accueil
-  - link_url: "#"
-    link_text: Features
+  - link_url: "#contact"
+    link_text: Contact
   - link_url: "#"
     link_text: Pricing
   - link_url: "#"
