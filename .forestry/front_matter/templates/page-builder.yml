@@ -33,4 +33,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- content/anthesys-2.md
 - content/anthesys.md
