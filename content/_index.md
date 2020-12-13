@@ -18,7 +18,7 @@ page_sections:
 - logo: ''
   navigation: ''
   cta: ''
-  template: text-column Save
+  template: text-column
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed scelerisque nisi et quam fringilla lacinia. Suspendisse cursus condimentum lacus, at sollicitudin quam. Aliquam placerat iaculis risus, pretium feugiat odio varius vel. Duis sit amet pellentesque odio, nec placerat leo. Nunc nunc mi, bibendum ut ultrices sit amet, lobortis non odio. Mauris ut laoreet erat. Nullam ultricies, nibh eget egestas luctus, dolor quam vestibulum nisi, a egestas ipsum dui ut arcu. Fusce tempus nunc at risus mollis blandit. Aenean eu malesuada lorem.
