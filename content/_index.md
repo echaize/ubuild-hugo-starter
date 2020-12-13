@@ -22,6 +22,9 @@ page_sections:
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
   logo: "/uploads/logo-anthesys-vertical.png"
+  cta:
+    link_url: www.google.Fr
+    link_text: Google
 - template: simple-footer
   block: footer-1
   content: Hello world!
