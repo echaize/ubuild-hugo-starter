@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link_url: "/"
-    link_text: Home
+    link_text: Accueil
   - link_url: "#"
     link_text: Features
   - link_url: "#"
@@ -78,16 +78,3 @@ page_sections:
   content: Hello world!
 
 ---
-Test
-
-skjdq
-
-qsdqs
-
-d
-
-qs
-
-dsq
-
-d
