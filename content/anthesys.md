@@ -5,8 +5,11 @@ title = "anthesys"
 [[page_sections]]
 block = "header-1"
 logo = "/uploads/logo-anthesys-vertical.png"
-navigation = []
 template = "navigation-header"
+[[page_sections.navigation]]
+link_text = "Contact"
+link_url = "/contact"
+open_in_new_tab = false
 [[page_sections]]
 block = "two-column-1"
 template = "2-column-text"
