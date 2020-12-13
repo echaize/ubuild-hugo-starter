@@ -28,6 +28,7 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  logo: "/uploads/logo-anthesys-vertical.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
