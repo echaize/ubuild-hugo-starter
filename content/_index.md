@@ -75,3 +75,4 @@ page_sections:
   content: Hello world!
 
 ---
+**Footer**
